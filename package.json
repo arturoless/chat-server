@@ -1,0 +1,25 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturoless/chat-server.git"
+  },
+  "author": "AL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturoless/chat-server/issues"
+  },
+  "homepage": "https://github.com/arturoless/chat-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "os": "^0.1.1",
+    "socket.io": "^2.2.0"
+  }
+}
